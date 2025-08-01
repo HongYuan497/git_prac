@@ -1,0 +1,2 @@
+# git_prac
+这个repository是用来练习git与github的联合使用
